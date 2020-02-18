@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/jest": "^25.1.2",
+    "jest": "^25.1.0",
+    "prettier": "^1.19.1"
+  },
+  "scripts": {
+    "test": "jest test",
+    "testw": "jest test --watch"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "@babel/preset-typescript": "^7.8.3",
+    "babel-jest": "^25.1.0"
+  }
+}

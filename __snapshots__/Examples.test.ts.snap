@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Snapshot Example should provide the correct address for the White House  1`] = `
+Object {
+  "city": "Washington",
+  "state": "DC",
+  "street": "1600 Pennsylvania Ave NW",
+  "zip": "20500",
+}
+`;
